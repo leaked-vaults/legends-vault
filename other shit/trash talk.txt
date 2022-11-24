@@ -1,0 +1,13 @@
+
+local words = {
+    'ur bad',
+    'seed',
+    'im not locking ur just bad',
+    'kid im not locking XDXDXDXD ur just bad',
+    'sad',
+    'sonned',
+    'how did u fail to get me',
+}
+
+local player = game.Players.LocalPlayer
+local keybind = 'y'
